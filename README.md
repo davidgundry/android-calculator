@@ -14,3 +14,6 @@ Features include
 ## Screenshots
 
 ![Light view mode](img/light1.png) ![Light view mode](img/dark1.png)
+
+https://user-images.githubusercontent.com/1508862/215797633-0b094d26-966a-4e58-a54c-19fdc52952f5.mp4
+
